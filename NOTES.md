@@ -1,3 +1,5 @@
+These notes detail works on figuring out the data fields stored in the standardized bar code data on Québec's restaurant bills.
+
 # General notes #
   * PDF417 barcode with BASE64 encoded binary payload
   * Always 0x7A bytes long == 122 bytes == 976 bits
