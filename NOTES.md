@@ -1,3 +1,6 @@
+Wednesday, December 31, 2008 at 11:57:56 PM
+
+
 # General notes #
   * PDF417 barcode with BASE64 encoded binary payload
   * Always 0x7A bytes long == 122 bytes == 976 bits
